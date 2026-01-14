@@ -1,2 +1,3 @@
 Git Tutorial edited and latest.
 I am attending the 2nd class about Git Version Control.
+Git version control is a must have skill for any developer.
